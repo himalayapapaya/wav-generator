@@ -1,3 +1,4 @@
+# wav-generator
 # Simple command-line program to generate various audio waveforms
 
 * Command line I/O *
