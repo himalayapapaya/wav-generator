@@ -1,6 +1,6 @@
 # Simple command-line program to generate various audio waveforms
 
-* Command line I/O
+* Command line I/O *
 ![Screenshot](/screenshots/command_line.png?raw=true "Optional Title")
 
 * Waveform outputs in DAW
