@@ -1,5 +1,5 @@
 # wav-generator
-# Simple command-line program to generate various audio waveforms
+# command-line program to generate various audio waveforms
 
 ![Screenshot](/screenshots/command_line.png?raw=true "Optional Title")
 
